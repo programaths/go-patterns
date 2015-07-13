@@ -11,7 +11,7 @@ This material was originally authored by Ryanna Dolan, copied here with permissi
 * [Generators](concurrency/generators.md)
 * [Parallel For Loop](concurrency/parallel-for-loop.md)
 * [Producer Consumer](concurrency/producer-consumer.md)
-* [Semaphores](concurrencty/semaphores.md)
+* [Semaphores](concurrency/semaphores.md)
 
 ## Functional
 
