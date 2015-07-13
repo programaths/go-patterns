@@ -12,7 +12,7 @@ like to see or contribute, please file an
 [issue](https://github.com/jbuberel/go-patterns/issues).
 
 This material was originally authored by
-[Ryanna Dolan](https://github.com/ryannedolan), copied here with permission.
+[Ryanne Dolan](https://github.com/ryannedolan), copied here with permission.
 
 ## Concurrency
 
