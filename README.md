@@ -6,7 +6,7 @@ This material was originally authored by Ryanna Dolan, copied here with permissi
 
 ## Concurrency
 
-* [Coroutines](concurrency/couroutines.md)
+* [Coroutines](concurrency/coroutines.md)
 * [Futures](concurrency/futures.md)
 * [Generators](concurrency/generators.md)
 * [Parallel For Loop](concurrency/parallel-for-loop.md)
