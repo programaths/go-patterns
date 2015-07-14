@@ -2,12 +2,13 @@
 
 This is a collection of common design patterns translated into Go.
 The goal of this repository is to help programmers coming from other
-language communities to Go for the first time.
+language communities understand how their favorite patterns can be reused
+in Go.
 
 We do not intended to be restrict this to the traditional
 [GoF Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns). We hope
-to include any language idiom you'd like to see re-implemented in a more
-idiomatic Go design. Suggestions are welcomed. If there is a pattern you'd
+to include any language idiom you'd like to see re-implemented in more
+idiomatic Go. Suggestions are welcomed. If there is a pattern you'd
 like to see or contribute, please file an
 [issue](https://github.com/jbuberel/go-patterns/issues).
 
@@ -31,6 +32,7 @@ This material was originally authored by
 * [Constructors](oo/constructors.md)
 * [Iterators](oo/iterators.md)
 * [Operators](oo/operators.md)
+* [Singleton](oo/singleton.md)
 
 ## Packages
 
