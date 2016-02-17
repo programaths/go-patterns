@@ -53,10 +53,10 @@ func (s semaphore) Unlock() {
 /* signal-wait */
 
 func (s semaphore) Signal() {
-    s.V(1)
+    s.P(1)
 }
 
 func (s semaphore) Wait(n int) {
-    s.P(n)
+    s.V(n)
 }
 ```
