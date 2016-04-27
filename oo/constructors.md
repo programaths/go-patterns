@@ -36,7 +36,7 @@ Pair pair = new Pair ("one", 1);
 Additionally, Go "constructors" can be written succinctly using initializers within a factory function:
 
 ```go
-function New(rows, cols, int) *matrix {
+func New(rows, cols, int) *matrix {
     return &matrix{rows, cols, make([]float, rows*cols)}
 }
 ```
